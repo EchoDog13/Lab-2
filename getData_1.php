@@ -31,7 +31,8 @@
         }
         echo "</table>";
     } else
-        die("Error in database query");
+        die("Error in database  query");
+
 
     ?>
 </body>
